@@ -1,5 +1,3 @@
-# <img src="https://github.com/dcannizzaro/Beetlemania/assets/737638/d506e047-92c0-4103-9933-caba66fc8899" width="24"> Beetleman 
-
 A real-time framework for interactive dialog with large language models (LLMs)
 
 <img src="https://github.com/dcannizzaro/Beetlemania/assets/737638/3de87f86-48a5-4179-8b98-23f2d2b616fc" width="650">
